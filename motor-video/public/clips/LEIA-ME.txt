@@ -1,4 +1,4 @@
 Coloque aqui 5 Reels/videos verticais do cliente com os nomes c1.mp4, c2.mp4, c3.mp4, c4.mp4 e c5.mp4.
 Eles aparecem dentro de celulares, mosaicos, listas "em alta" e na timeline que simula edicao.
 Use apenas videos que o cliente tem direito de usar. O c1 deve ser o mais animado/visual (aparece mais vezes).
-Se houver menos de 5, o render repete os que existirem.
+Se houver menos de 5, o render repete os que exhttps://youtu.be/89miWtgtVk0?si=PwvhKWLb3YzXr9Of
